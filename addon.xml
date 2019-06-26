@@ -16,7 +16,6 @@
 		<website>https://github.com/ks1c</website>
 		<assets>
 			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
 </addon>
